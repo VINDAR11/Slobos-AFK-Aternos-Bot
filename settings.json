@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Rias.aternos.me:32618",
+    "ip": "Rias.aternos.me",
     "port": 32618,
     "version": "",
     "try-creative": false
